@@ -1,0 +1,17 @@
+body{
+
+    background-image: url(image1.jpeg);
+    background-size: cover;
+}
+fieldset{
+    margin: auto;
+    margin-top: 190px;
+    width: 600px;
+    background-color: lightblue;
+    border-color: black;
+}
+#result{
+    background-color: white;
+    color: black;
+    width: 250px;
+}
